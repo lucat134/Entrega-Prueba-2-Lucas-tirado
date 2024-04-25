@@ -1,0 +1,34 @@
+body{
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+#caption{
+    border-radius: 25px;
+    background-color: white;    
+    color: black;
+}
+
+.noticia{
+    font-size: 155%;
+    padding-top: 25px;
+    text-decoration: underline;
+    text-shadow:  2px 2px 5px aqua;
+
+}
+
+.card-text{
+    border-radius: 20px;
+    background-color: aqua;
+}
+
+#formulario{
+    padding-top: 5%;
+    margin-left: 4%;
+    margin-bottom: 5%;
+}
+
+#label{
+    text-shadow:  2px 2px 5px aqua;
+}
